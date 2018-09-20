@@ -3,7 +3,6 @@ package kata1;
 import java.util.Date;
 
 public class Person {
-    //a
     private final String name;
     private final Date birthdate;
 
